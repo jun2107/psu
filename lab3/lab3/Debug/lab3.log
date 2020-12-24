@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+C:\Users\torer\source\repos\lab3\lab3\lab3.cpp(318,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\torer\source\repos\lab3\lab3\lab3.cpp(343,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab3.vcxproj -> C:\Users\torer\source\repos\lab3\Debug\lab3.exe
