@@ -1,0 +1,7 @@
+﻿  ConsoleApplication10.cpp
+C:\Users\torer\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(33,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\torer\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\torer\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(36,14): warning C4101: v: неиспользованная локальная переменная
+C:\Users\torer\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(37,17): warning C4101: mas2: неиспользованная локальная переменная
+C:\Users\torer\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(36,9): warning C4101: num: неиспользованная локальная переменная
+  ConsoleApplication10.vcxproj -> C:\Users\torer\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe
